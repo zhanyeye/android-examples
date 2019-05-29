@@ -1,4 +1,12 @@
 # Android Examples
+### update 2019.05.28
+Example16: Dialogs  
+Example15: Storage  
+Example14: Room
+### update 2019.05.26
+Example13: Connecting to the Network
+### update 2019.05.21
+Example12: DataBinding & ViewModel & LiveData  
 ### update 2019.05.14
 Example11: SharedPreferences  
 Example10: DrawerLayout & NavigationView
