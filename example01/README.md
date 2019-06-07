@@ -1,7 +1,9 @@
 ##### Example 01 UI
 
 > dp，像素密度，设备屏幕尺寸无关的，描述控件间距离等    (记：device)
+>
 > sp，描述**字体**大小    (记：script)
+>
 > px，像素，相对的绝对单元，与CSS相似等，图片等  (记：Pixel)
 
 
@@ -11,6 +13,7 @@ LinearLayout: 线性布局
 ConstraintLayout: 约束布局
 
 ###### Relative Layout & Linear Layout
+
 
 Linear与Relative布局的区别: 如果层级多的使用RelativeLayout
 ![](https://raw.githubusercontent.com/zhanyeye/Figure-bed/img/img/20190607101909.png)
@@ -37,7 +40,7 @@ LinearLayout 主要属性
 implementation 'com.android.support.constraint:constraint-layout:1.1.3'
 ```
 
-与Relative的区别：**仅对相同位置/方向进行相对的约束**
+与Relative的区别：**仅对相同位置/方向进行相对的约束**  
 ![](https://raw.githubusercontent.com/zhanyeye/Figure-bed/img/img/20190607091106.png)
 
 
